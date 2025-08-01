@@ -1,0 +1,8 @@
+/Concessionárias/
+/Permissionárias/
+/Banco de Dados/
+/venv/
+*.pyc
+.DS_Store
+.idea
+.vscode/
